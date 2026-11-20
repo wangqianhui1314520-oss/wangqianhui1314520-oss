@@ -1,16 +1,26 @@
-## Hi there 👋
+# 王乾辉 Tem
 
-<!--
-**wangqianhui1314520-oss/wangqianhui1314520-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+游戏与 AI 产品策划 · 江苏商贸职业学院 · 腾魄斯特软件开发工作室
 
-Here are some ideas to get you started:
+个人网站：https://wqh-tempest.cn ｜ 作品集：https://wqh-tempest.cn/zh/work/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 代表作品
+
+| 作品 | 说明 | 官方页面 |
+|---|---|---|
+| 元末逐鹿 | 元末多派系博弈策略游戏，玩家以自然语言下圣旨，八个 AI 智能体协同推演；腾讯云黑客松游戏开发挑战赛 2026 华东赛区第 5 名 / 优胜奖 | https://tch.cloud.tencent.com/works/293 |
+| 鲸天魔盗团（又名鲸鱼魔盗团） | 提示词即资源的安全主题解谜游戏；WaytoAGI 1024 切磋大会 · 游戏赛道 | https://1024.waytoagi.com/works/yySE6nm9IKLHmlbfirzizFPsIlBGPrX9 |
+| 安药 AnYao | 罕见病（发作性睡病）用药提醒药盒 + App + 手表，全国第 5 名，Apache-2.0 开源 | https://github.com/wangqianhui1314520-oss/anyao |
+| ESP32 嵌入式实训平台 | 13 个模块 / 47 个章节的嵌入式教学项目 | https://wqh-tempest.cn/zh/work/esp32-learn/ |
+
+完整 14 件作品：https://wqh-tempest.cn/zh/work/
+
+## 讲师
+
+- 第十一届中国开源年会（COSCon'26）讲者
+- AI for Healthcare 论坛分享
+
+## 联系
+
+- 个人网站：https://wqh-tempest.cn
+- GitHub：@wangqianhui1314520-oss
