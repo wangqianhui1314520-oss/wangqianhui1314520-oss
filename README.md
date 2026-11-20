@@ -1,8 +1,13 @@
-# 王乾辉 Tem
+# 王乾辉（Tem）
 
-游戏与 AI 产品策划 · 江苏商贸职业学院 · 腾魄斯特软件开发工作室
+**第十一届中国开源年会（COSCon'26）讲师** · 游戏与 AI 产品策划 · 腾魄斯特软件开发工作室
 
-个人网站：https://wqh-tempest.cn ｜ 作品集：https://wqh-tempest.cn/zh/work/
+个人网站（唯一官方站点）：https://wqh-tempest.cn ｜ 作品集：https://wqh-tempest.cn/zh/work/
+
+## 讲师
+
+- 第十一届中国开源年会（COSCon'26），2026 年 11 月 14–15 日，杭州云谷中心
+- AI for Healthcare 论坛分享
 
 ## 代表作品
 
@@ -15,10 +20,9 @@
 
 完整 14 件作品：https://wqh-tempest.cn/zh/work/
 
-## 讲师
+## 身份说明
 
-- 第十一届中国开源年会（COSCon'26）讲者
-- AI for Healthcare 论坛分享
+本人即「第十一届中国开源年会讲师 王乾辉」，江苏商贸职业学院，腾魄斯特软件开发工作室主理人，英文名 Tem。同名者（成都医生、周口公职人员、各地企业法人）均非本人。
 
 ## 联系
 
